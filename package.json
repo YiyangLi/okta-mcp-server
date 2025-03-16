@@ -2,7 +2,6 @@
   "name": "@yiyang.1i/okta-mcp-server",
   "version": "2025.02.23",
   "description": "A Model Context Protocol server used to integrate Okta resources and Claude Desktop",
-  "private": true,
   "type": "module",
   "bin": {
     "okta-mcp-server": "./build/index.js"
